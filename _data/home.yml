@@ -2,19 +2,19 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
-    url: blog
+  - title: forms received
+    url: forms-received
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: forms to fill out
+    url: forms-fill
 
 project_entries:
-  - title: Project 1
-    url: overview-post
+  - title: Employer W2
+    url: w2-employer
     desc: This is an example project, configured in _data/home.yml
 
-  - title: Project 2
-    url: overview-post
+  - title: Brokerage Account 1099-DIV
+    url: 1099-div
     desc: Projects are shown in card layout
 
   - title: Project 3
@@ -35,67 +35,64 @@ project_entries:
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
 
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+# old_project_entries:
+#   - title: Soopr
+#     url: https://www.soopr.co
+#     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+#     highlight: NEW
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+#   - title: Cookie
+#     url: https://github.com/abhinavs/cookie
+#     desc: An open source landing website with supporting pages and integrated blog
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+#   - title: Moonwalk
+#     url: https://github.com/abhinavs/moonwalk
+#     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+#   - title: Humangous
+#     url: https://www.humangous.co
+#     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: IRS
+    url: https://www.irs.gov
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: Filing Deadlines
+    url: https://www.irs.gov/filing/individuals/when-to-file
 
-  - title: github
-    url: https://github.com/abhinavs
+  - title: Check Your Refund Status
+    url: https://www.irs.gov/refunds
 
-  - title: feed
-    url: feed.xml
+# misc_entries:
+#   - title: this is an example vertical list
+#     url: false
 
-misc_entries:
-  - title: this is an example vertical list
-    url: false
+#   - title: you can show or hide using a boolean flag in _config.yml
+#     url: false
 
-  - title: you can show or hide using a boolean flag in _config.yml
-    url: false
+#   - title: and you can add data in _data/home.yml
+#     url: false
 
-  - title: and you can add data in _data/home.yml
-    url: false
+#   - title: Blog posts
+#     post_list: true
+#     url: false
 
-  - title: Blog posts
-    post_list: true
-    url: false
+#   - title: moonwalk on the Internet
+#     url: false
+#     entries:
+#       - title: on Github
+#         url: https://github.com/abhinavs/moonwalk
 
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
+#       - title: originally built for abhinav's homepage
+#         url: https://www.abhinav.co
 
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
+#       - title: this list is scalable and can be nested
+#         url: false
+#         entries:
+#           - title: this is nested inside a nested list
+#             url: false
 
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
-
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
+#           - title: it is easy to use, see _data/home.yml to see how to configure it.
+#             url: false
 
 

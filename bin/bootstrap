@@ -3,4 +3,4 @@
 set -e
 
 echo "==> Running \`bundle install\`"
-bundle install
+sudo bundle install
