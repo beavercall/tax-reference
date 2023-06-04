@@ -3,37 +3,37 @@ navbar_entries:
     url: about
 
   - title: forms received
-    url: forms-received
+    url: parent-pages/forms-received
 
   - title: forms to fill out
-    url: forms-fill
+    url: parent-pages/forms-fill
 
 project_entries:
   - title: Employer W2
-    url: w2-employer
-    desc: This is an example project, configured in _data/home.yml
+    url: forms-received-pages/w2-employer
+    desc: Salary from your employer(s)
 
   - title: Brokerage Account 1099-DIV
-    url: 1099-div
-    desc: Projects are shown in card layout
+    url: forms-received-pages/1099-div
+    desc: Dividends from your brokerage account
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: RSUs and Other Sold Stocks 1099-B
+    url: forms-received-pages/1099-b
+    desc: Proceeds from stocks
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+  - title: Schedule 2
+    url: forms-fill-pages/schedule-2
+    desc: Additional taxes
+    # highlight: WIP
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+  - title: Schedule 3
+    url: forms-fill-pages/schedule-3
+    desc: Additional credits and payments
+    # highlight: WIP
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: Schedule D
+    url: forms-fill-pages/schedule-d
+    desc: Interest and ordinary dividends
 
 # old_project_entries:
 #   - title: Soopr
