@@ -3,36 +3,36 @@ navbar_entries:
     url: about
 
   - title: forms received
-    url: parent-pages/forms-received
+    url: forms-received
 
   - title: forms to fill out
-    url: parent-pages/forms-fill
+    url: forms-fill
 
 project_entries:
   - title: Employer W2
-    url: forms-received-pages/w2-employer
+    url: forms-received/w2-employer
     desc: Salary from your employer(s)
 
   - title: Brokerage Account 1099-DIV
-    url: forms-received-pages/1099-div
+    url: forms-received/1099-div
     desc: Dividends from your brokerage account
 
   - title: RSUs and Other Sold Stocks 1099-B
-    url: forms-received-pages/1099-b
+    url: forms-received/1099-b
     desc: Proceeds from stocks
 
   - title: Schedule 2
-    url: forms-fill-pages/schedule-2
+    url: forms-fill/schedule-2
     desc: Additional taxes
     # highlight: WIP
 
   - title: Schedule 3
-    url: forms-fill-pages/schedule-3
+    url: forms-fill/schedule-3
     desc: Additional credits and payments
     # highlight: WIP
 
   - title: Schedule D
-    url: forms-fill-pages/schedule-d
+    url: forms-fill/schedule-d
     desc: Interest and ordinary dividends
 
 # old_project_entries:
@@ -94,5 +94,3 @@ footer_entries:
 
 #           - title: it is easy to use, see _data/home.yml to see how to configure it.
 #             url: false
-
-

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Schedule D: Capital Gains and Losses"
+categories: fill
 url: schedule-d
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Schedule B: Interest and Ordinary Dividends"
+categories: fill
 url: schedule-b
 ---
 

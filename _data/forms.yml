@@ -1,0 +1,61 @@
+fill_entries:
+  - title: Qualified Dividends and Capital Gains
+    url: /forms-fill/qual-div-cap-gains
+    desc: How much tax you owe
+
+  - title: Schedule 2
+    url: /forms-fill/schedule-2
+    desc: Additional Taxes
+
+  - title: Schedule 3
+    url: /forms-fill/schedule-3
+    desc: Additional Credits
+  
+  - title: Schedule B
+    url: /forms-fill/schedule-b
+    desc: Additional Interest
+
+  - title: Schedule D
+    url: /forms-fill/schedule-d
+    desc: Capital Gains and Losses
+
+  - title: 8606
+    url: /forms-fill/8606
+    desc: Non-deductible IRAs
+
+  - title: 8949
+    url: /forms-fill/8949
+    desc: Sales of Capital Assets
+
+  - title: 8889
+    url: /forms-fill/8889
+    desc: HSAs
+
+  - title: 8995-A
+    url: /forms-fill/8995-a
+    desc: Qualified Business Income Deduction
+
+received_entries: 
+  - title: Employer W2
+    url: /forms-received/w2-employer
+    desc: Salary from your employer(s)
+
+  - title: Brokerage Account 1099-DIV
+    url: /forms-received/1099-div
+    desc: Dividends from your brokerage account
+
+  - title: RSUs and Other Sold Stocks 1099-B
+    url: /forms-received/1099-b
+    desc: Proceeds from stocks
+
+  - title: Interest 1099-INT
+    url: /forms-received/1099-int
+    desc: Interest received
+
+  - title: Mega Backdoor Roth 401k
+    url: /forms-received/1099-r-401k
+    desc: Mega backdoor Roth
+
+  - title: Backdoor Roth 1099-R
+    url: /forms-received/1099-r-ira
+    desc: Backdoor Roth

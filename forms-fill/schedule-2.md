@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Schedule 2: Additional Taxes"
+categories: fill
 url: schedule-2
 ---
 

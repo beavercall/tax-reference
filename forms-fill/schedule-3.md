@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Schedule 3: Additional Credits and Payments"
+categories: fill
 url: schedule-3
 ---
 
